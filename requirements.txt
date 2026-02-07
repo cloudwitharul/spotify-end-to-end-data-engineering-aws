@@ -1,0 +1,8 @@
+# Core AWS SDK
+boto3
+
+# Spark engine used by AWS Glue
+pyspark
+
+# Athena & S3 helper library
+awswrangler
