@@ -103,3 +103,7 @@ Validated transformed dataset using Athena query results.
 ## 🏗️ Architecture Diagram
 
 ![Architecture](architecture/spotify_architecture.png)
+
+screenshots
+
+![screenshots](screenshots/spotify_architecture.png)
